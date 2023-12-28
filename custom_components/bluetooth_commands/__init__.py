@@ -14,6 +14,7 @@ from __future__ import annotations
 
 from homeassistant.core import HomeAssistant
 from homeassistant.helpers.typing import ConfigType
+from homeassistant.components import bluetooth
 
 # The domain of your component. Should be equal to the name of your component.
 DOMAIN = "bluetooth_commands"
