@@ -2,7 +2,7 @@
   "domain": "bluetooth_commands",
   "name": "Bluetooth Commands",
   "codeowners": [],
-  "dependencies": [],
+  "dependencies": ["bluetooth"],
   "documentation": "https://github.com/home-assistant/picu63/tree/master/custom_components/bluetooth_commands/",
   "iot_class": "local_polling",
   "requirements": [],
